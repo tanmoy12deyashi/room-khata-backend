@@ -1,0 +1,24 @@
+{
+  "name": "room-khata-backend",
+  "version": "1.0.0",
+  "description": "room-khata-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmoy12deyashi/room-khata-backend.git"
+  },
+  "keywords": [],
+  "author": "Tan Moy Deyashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanmoy12deyashi/room-khata-backend/issues"
+  },
+  "homepage": "https://github.com/tanmoy12deyashi/room-khata-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
